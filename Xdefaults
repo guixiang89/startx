@@ -1,0 +1,32 @@
+URxvt.background:grey30
+URxvt.foreground:white
+URxvt.colorBD:yellow
+URxvt.colorUL:green
+URxvt.color12:DodgerBlue
+URxvt.color10:SteelBlue4
+URxvt.font: xft:dejavu sans mono:size=10
+URxvt.boldFont: xft:dejavu sans mono:size=10:bold
+
+Xft.dpi : 96
+Xft.antialias : true
+Xft.autohint : false
+Xft.hinting : true
+Xft.hintstyle : hintslight
+Xft.rgba : rgb
+Xft.lcdfilter : lcdlight
+
+Xcursor.theme : Neutral_Plus
+Xcursor.size : 10
+
+URxvt.title : URxvt
+URxvt.geometry : 86x36
+URxvt.loginShell : true
+URxvt.preeditType : Root
+URxvt.saveLines : 65535
+
+URxvt.transparent : false
+URxvt.cursorBlink : false
+URxvt.scrollBar : false
+URxvt.fading : 20
+URxvt.externalBorder : 0
+URxvt.internalBorder : 0
