@@ -1,0 +1,1 @@
+/home/sean/.startx/dwm/config.h

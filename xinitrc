@@ -20,4 +20,4 @@ urxvtd -q -f -o
 urxvtc -e sh -c "tmux" &
 
 # Start dwm
-exec ck-launch-session awesome
+exec dwm
